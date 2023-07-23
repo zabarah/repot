@@ -1,0 +1,17 @@
+{
+    "faction": "/r/palestine",
+    "contact": "https://discord.gg/By3Pwp5U",
+    "templates": [
+        {
+            "name": "palestine flag",
+            "sources": [
+                ""
+            ],
+            "x": 340,
+            "y": -193
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": []
+}
